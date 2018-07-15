@@ -85,10 +85,9 @@ pyautogui.press('pgdn')
 pyautogui.press('down')
 pyautogui.typewrite('1')
 pyautogui.press('f8')
-print('now 26/IN3')
+print('*******')
 # worked 5.29
 
-# added 26/in3 5.31
 pyautogui.press('ctrl')
 pyautogui.press('enter')
 pyautogui.click(335, 685)
@@ -108,7 +107,6 @@ pyautogui.typewrite('Y')
 pyautogui.PAUSE = 1
 pyautogui.hotkey('F8')
 print('************')
-# Next Company
 pyautogui.press('ctrl')
 pyautogui.click(335, 685)
 pyautogui.PAUSE = .2
@@ -122,7 +120,7 @@ pyautogui.typewrite('******')
 pyautogui.press('enter')
 pyautogui.typewrite('*******')
 pyautogui.click(566, 422)
-pyautogui.typewrite('DG')
+pyautogui.typewrite('**')
 pyautogui.press('down')
 pyautogui.press('down')
 pyautogui.press('down')
@@ -131,7 +129,7 @@ pyautogui.press('enter')
 pyautogui.typewrite('Y')
 pyautogui.PAUSE = 1
 pyautogui.hotkey('F8')
-# Next Company
+#
 print('*******')
 pyautogui.press('ctrl')
 pyautogui.click(335, 685)
@@ -156,7 +154,7 @@ pyautogui.typewrite('Y')
 pyautogui.PAUSE = 1
 pyautogui.hotkey('F8')
 print('********')
-# clean slate back to CO 40
+# 
 pyautogui.press('ctrl')
 pyautogui.click(335, 685)
 pyautogui.PAUSE = .2
