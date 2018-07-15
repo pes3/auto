@@ -1,4 +1,4 @@
-
+#
 import pyautogui
 from datetime import datetime
 from autotools import *
@@ -8,7 +8,7 @@ from autotools import *
 
 print('**********')
 pyautogui.PAUSE = 1
-# automate findingfind desktop application
+# automate finding desktop application
 pyautogui.locateCenterOnScreen(r'***********')
 print('found')
 pyautogui.PAUSE = 3
