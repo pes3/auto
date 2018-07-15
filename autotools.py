@@ -60,4 +60,4 @@ def tab(x):
 now = datetime.date.today()  # create the date for today
 today = '{0:%m%d%y}'.format(now).format(now)
 startTime = datetime.now()
-jba = pyautogui.locateCenterOnScreen(r'******')  # Assing JBA as variable
+jba = pyautogui.locateCenterOnScreen(r'******') 
