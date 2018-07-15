@@ -1,4 +1,4 @@
-# Code written on 5.29 and is when JBA is already logged in and opens to maximized screen
+
 import pyautogui
 from datetime import datetime
 from autotools import *
