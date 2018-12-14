@@ -10,7 +10,7 @@ def down():
     p.press('down')
     p.click()
 
-x = range(0,120,2)
+x = range(0,300,2)
 for i in x:
     down()
 
